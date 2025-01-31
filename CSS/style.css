@@ -468,8 +468,7 @@ button::placeholder{
     gap: 8px;
 }
 .profile_image{
-    max-width: 124px;
-    width: 100%;
+    padding: 46px;
     min-height: 124px;
     display: flex;
     align-items: center;
