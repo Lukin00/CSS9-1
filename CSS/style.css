@@ -17,8 +17,7 @@ nav{
     background-color: #14171F;
     display: flex;
     flex-direction: column;
-    gap: 48px;
-    flex-wrap: wrap;
+    justify-content: space-between;
     position: sticky;
     top: 0;
 }
@@ -84,7 +83,6 @@ ul li a{
 .logout_setting_container{
     display: flex;
     align-items: flex-end;
-    flex: 1;
 }
 .logout_setting{
     display: flex;
